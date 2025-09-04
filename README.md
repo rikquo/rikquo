@@ -27,7 +27,7 @@ Very passionate about building **full-stack web applications**, designing **enga
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)  
 ---
 
-## 🚗 Featured Project – Rev Garage
+## Featured Project – Rev Garage
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rikquo&repo=Car-Ecommerce&theme=tokyonight)](https://github.com/rikquo/Car-Ecommerce)
 
 A **full-stack car e-commerce platform** built with **PHP, MySQL, JavaScript, CSS, and GSAP**, featuring:  
@@ -45,12 +45,11 @@ A **full-stack car e-commerce platform** built with **PHP, MySQL, JavaScript, CS
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rikquo&layout=compact&theme=tokyonight)  
 ![](https://github-readme-stats.vercel.app/api?username=rikquo&show_icons=true&theme=tokyonight)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rikquo&theme=tokyonight)  
 
 
 ---
-
-✨ *"Code, Create, Innovate."*  
+*"Code, Create, Innovate."*  
