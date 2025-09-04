@@ -46,9 +46,9 @@ A **full-stack car e-commerce platform** built with **PHP, MySQL, JavaScript, CS
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rikquo&layout=compact&theme=tokyonight)  
+![](https://github-readme-stats.vercel.app/api?username=rikquo&show_icons=true&theme=tokyonight)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=rikquo&theme=tokyonight)  
 
 
 ---
