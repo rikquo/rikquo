@@ -1,6 +1,6 @@
 Hey, I'm Hla Lunn Eain! You can call me Riko!
 
-💻 Software Engineering Student | 🌐 Web Developer | 🎨 Motion Graphic Editor  
+💻 Software Engineering Student | Web Developer | Motion Graphic Editor  
 
 Very passionate about building **full-stack web applications**, designing **engaging user experiences**, and creating **motion graphics** with Adobe After Effects. Always exploring new technologies to improve skills and deliver creative projects.  
 
@@ -31,10 +31,10 @@ Very passionate about building **full-stack web applications**, designing **enga
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rikquo&repo=Car-Ecommerce&theme=tokyonight)](https://github.com/rikquo/Car-Ecommerce)
 
 A **full-stack car e-commerce platform** built with **PHP, MySQL, JavaScript, CSS, and GSAP**, featuring:  
-- 🔑 User authentication & profile management  
-- 🛠️ Admin dashboard with product & inventory control  
-- 🚘 Car listings with search & filter  
-- 🎨 GSAP-powered animations for a modern UI  
+- User authentication & profile management  
+- Admin dashboard with product & inventory control  
+- Car listings with search & filter  
+- GSAP-powered animations for a modern UI  
 
 ---
 
