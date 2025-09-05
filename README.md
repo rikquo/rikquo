@@ -2,7 +2,7 @@ Hey, I'm Hla Lunn Eain! You can call me Riko!
 
 💻 Software Engineering Student | Web Developer | Motion Graphic Editor  
 
-Very passionate about building **full-stack web applications**, designing **engaging user experiences**, and creating **motion graphics** with Adobe After Effects. Always exploring new technologies to improve skills and deliver creative projects.  
+Very passionate about learning about **AI / ML** and building **full-stack web applications**, designing **engaging user experiences**, and creating **motion graphics** with Adobe After Effects. Always exploring new technologies to improve skills and deliver creative projects.  
 
 ---
 
